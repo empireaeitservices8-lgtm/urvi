@@ -1,0 +1,564 @@
+[
+  {
+    "key": "group_home_page_fields",
+    "title": "Home Page Content",
+    "fields": [
+      {
+        "key": "field_6r24rsy3",
+        "label": "Hero Label",
+        "name": "hero_label",
+        "type": "text"
+      },
+      {
+        "key": "field_uys0yknj",
+        "label": "Hero Headline 1",
+        "name": "hero_headline_1",
+        "type": "text"
+      },
+      {
+        "key": "field_u3vcrqgv",
+        "label": "Hero Headline 2",
+        "name": "hero_headline_2",
+        "type": "text"
+      },
+      {
+        "key": "field_hecgfpou",
+        "label": "Hero Headline 3",
+        "name": "hero_headline_3",
+        "type": "text"
+      },
+      {
+        "key": "field_50stzqq9",
+        "label": "Hero Subtext",
+        "name": "hero_subtext",
+        "type": "textarea"
+      },
+      {
+        "key": "field_0s6d25m5",
+        "label": "Hero Image",
+        "name": "hero_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_q29m7sb0",
+        "label": "Collections Label",
+        "name": "collections_label",
+        "type": "text"
+      },
+      {
+        "key": "field_2ibhyh4k",
+        "label": "Collections Title",
+        "name": "collections_title",
+        "type": "text"
+      },
+      {
+        "key": "field_0piv8tdw",
+        "label": "Collections Subtitle",
+        "name": "collections_subtitle",
+        "type": "textarea"
+      },
+      {
+        "key": "field_79ei4plr",
+        "label": "Collection 1 Title",
+        "name": "collection_1_title",
+        "type": "text"
+      },
+      {
+        "key": "field_lozmxhl0",
+        "label": "Collection 1 Description",
+        "name": "collection_1_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_suly1kwe",
+        "label": "Collection 1 Tag",
+        "name": "collection_1_tag",
+        "type": "text"
+      },
+      {
+        "key": "field_1avbl1zh",
+        "label": "Collection 1 Link",
+        "name": "collection_1_link",
+        "type": "text"
+      },
+      {
+        "key": "field_k3r1zig4",
+        "label": "Collection 1 Image",
+        "name": "collection_1_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_t1pt7m03",
+        "label": "Collection 2 Title",
+        "name": "collection_2_title",
+        "type": "text"
+      },
+      {
+        "key": "field_x0eknpf0",
+        "label": "Collection 2 Description",
+        "name": "collection_2_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_b26kx28h",
+        "label": "Collection 2 Tag",
+        "name": "collection_2_tag",
+        "type": "text"
+      },
+      {
+        "key": "field_y26tmfw2",
+        "label": "Collection 2 Link",
+        "name": "collection_2_link",
+        "type": "text"
+      },
+      {
+        "key": "field_du68rnw8",
+        "label": "Collection 2 Image",
+        "name": "collection_2_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_4d1igqcf",
+        "label": "Collection 3 Title",
+        "name": "collection_3_title",
+        "type": "text"
+      },
+      {
+        "key": "field_md16wzym",
+        "label": "Collection 3 Description",
+        "name": "collection_3_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_zibl98sc",
+        "label": "Collection 3 Tag",
+        "name": "collection_3_tag",
+        "type": "text"
+      },
+      {
+        "key": "field_7jl8uwfh",
+        "label": "Collection 3 Link",
+        "name": "collection_3_link",
+        "type": "text"
+      },
+      {
+        "key": "field_1hdirug9",
+        "label": "Collection 3 Image",
+        "name": "collection_3_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_bv4xn4ga",
+        "label": "Collection 4 Title",
+        "name": "collection_4_title",
+        "type": "text"
+      },
+      {
+        "key": "field_rvtl8flt",
+        "label": "Collection 4 Description",
+        "name": "collection_4_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_d7lvddew",
+        "label": "Collection 4 Tag",
+        "name": "collection_4_tag",
+        "type": "text"
+      },
+      {
+        "key": "field_4cv2zum2",
+        "label": "Collection 4 Link",
+        "name": "collection_4_link",
+        "type": "text"
+      },
+      {
+        "key": "field_y0i8u3on",
+        "label": "Collection 4 Image",
+        "name": "collection_4_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_gi9ye3i2",
+        "label": "Mens Section Label",
+        "name": "mens_section_label",
+        "type": "text"
+      },
+      {
+        "key": "field_eogzv8mc",
+        "label": "Mens Section Title",
+        "name": "mens_section_title",
+        "type": "text"
+      },
+      {
+        "key": "field_t587g7yb",
+        "label": "Mens Section Subtitle",
+        "name": "mens_section_subtitle",
+        "type": "textarea"
+      },
+      {
+        "key": "field_nue2cfsu",
+        "label": "Mens Banner Image",
+        "name": "mens_banner_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_rtz04zyu",
+        "label": "Mens Banner Label",
+        "name": "mens_banner_label",
+        "type": "text"
+      },
+      {
+        "key": "field_s6mwumzp",
+        "label": "Mens Banner Title",
+        "name": "mens_banner_title",
+        "type": "text"
+      },
+      {
+        "key": "field_rquot312",
+        "label": "Mens Banner Subtitle",
+        "name": "mens_banner_subtitle",
+        "type": "textarea"
+      },
+      {
+        "key": "field_fvo3iunr",
+        "label": "New Arrivals Label",
+        "name": "new_arrivals_label",
+        "type": "text"
+      },
+      {
+        "key": "field_mkkkz4ib",
+        "label": "New Arrivals Title",
+        "name": "new_arrivals_title",
+        "type": "text"
+      },
+      {
+        "key": "field_5ww5sd3a",
+        "label": "New Arrivals Subtitle",
+        "name": "new_arrivals_subtitle",
+        "type": "text"
+      },
+      {
+        "key": "field_z8j44vdr",
+        "label": "Bestsellers Label",
+        "name": "bestsellers_label",
+        "type": "text"
+      },
+      {
+        "key": "field_boeftc9a",
+        "label": "Bestsellers Title",
+        "name": "bestsellers_title",
+        "type": "text"
+      },
+      {
+        "key": "field_2kty8pg7",
+        "label": "Bestsellers Subtitle",
+        "name": "bestsellers_subtitle",
+        "type": "text"
+      },
+      {
+        "key": "field_drg3u22k",
+        "label": "Category Grid Label",
+        "name": "category_grid_label",
+        "type": "text"
+      },
+      {
+        "key": "field_sojsunzt",
+        "label": "Category Grid Title",
+        "name": "category_grid_title",
+        "type": "text"
+      },
+      {
+        "key": "field_ym5t7z1c",
+        "label": "Category 1 Label",
+        "name": "category_1_label",
+        "type": "text"
+      },
+      {
+        "key": "field_xar5tem0",
+        "label": "Category 1 Slug",
+        "name": "category_1_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_8cefj3yr",
+        "label": "Category 1 Image",
+        "name": "category_1_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_xnnud5sv",
+        "label": "Category 2 Label",
+        "name": "category_2_label",
+        "type": "text"
+      },
+      {
+        "key": "field_ar3kcp6s",
+        "label": "Category 2 Slug",
+        "name": "category_2_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_p80lhii6",
+        "label": "Category 2 Image",
+        "name": "category_2_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_kbuq9az3",
+        "label": "Category 3 Label",
+        "name": "category_3_label",
+        "type": "text"
+      },
+      {
+        "key": "field_jxx5ca4o",
+        "label": "Category 3 Slug",
+        "name": "category_3_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_ltw1nv7j",
+        "label": "Category 3 Image",
+        "name": "category_3_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_a0kpxdyi",
+        "label": "Category 4 Label",
+        "name": "category_4_label",
+        "type": "text"
+      },
+      {
+        "key": "field_mdwe24ie",
+        "label": "Category 4 Slug",
+        "name": "category_4_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_sj0o8jaz",
+        "label": "Category 4 Image",
+        "name": "category_4_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_sre2s3b7",
+        "label": "Category 5 Label",
+        "name": "category_5_label",
+        "type": "text"
+      },
+      {
+        "key": "field_cus9qm0m",
+        "label": "Category 5 Slug",
+        "name": "category_5_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_65wtx712",
+        "label": "Category 5 Image",
+        "name": "category_5_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_h9h81gya",
+        "label": "Category 6 Label",
+        "name": "category_6_label",
+        "type": "text"
+      },
+      {
+        "key": "field_2xsbvwte",
+        "label": "Category 6 Slug",
+        "name": "category_6_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_5dfhzz0n",
+        "label": "Category 6 Image",
+        "name": "category_6_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_zf60pe2r",
+        "label": "Category 7 Label",
+        "name": "category_7_label",
+        "type": "text"
+      },
+      {
+        "key": "field_ceci55ng",
+        "label": "Category 7 Slug",
+        "name": "category_7_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_o59xih4p",
+        "label": "Category 7 Image",
+        "name": "category_7_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_2h2jz575",
+        "label": "Category 8 Label",
+        "name": "category_8_label",
+        "type": "text"
+      },
+      {
+        "key": "field_7aqgr6kr",
+        "label": "Category 8 Slug",
+        "name": "category_8_slug",
+        "type": "text"
+      },
+      {
+        "key": "field_8fnooo8m",
+        "label": "Category 8 Image",
+        "name": "category_8_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_e0pemkd7",
+        "label": "Editorial Image",
+        "name": "editorial_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_kf5yyxfp",
+        "label": "Editorial Label",
+        "name": "editorial_label",
+        "type": "text"
+      },
+      {
+        "key": "field_d29bbrj7",
+        "label": "Editorial Title 1",
+        "name": "editorial_title_1",
+        "type": "text"
+      },
+      {
+        "key": "field_dd5gfe88",
+        "label": "Editorial Title 2",
+        "name": "editorial_title_2",
+        "type": "text"
+      },
+      {
+        "key": "field_js5yaybf",
+        "label": "Editorial Title 3",
+        "name": "editorial_title_3",
+        "type": "text"
+      },
+      {
+        "key": "field_swh547rf",
+        "label": "Editorial Paragraph 1",
+        "name": "editorial_p1",
+        "type": "textarea"
+      },
+      {
+        "key": "field_k0gf9u9r",
+        "label": "Editorial Paragraph 2",
+        "name": "editorial_p2",
+        "type": "textarea"
+      },
+      {
+        "key": "field_f2ggr9hw",
+        "label": "Promo Image",
+        "name": "promo_image",
+        "type": "image",
+        "return_format": "url"
+      },
+      {
+        "key": "field_jjgw61zj",
+        "label": "Promo Label",
+        "name": "promo_label",
+        "type": "text"
+      },
+      {
+        "key": "field_rv2717ys",
+        "label": "Promo Headline",
+        "name": "promo_headline",
+        "type": "text"
+      },
+      {
+        "key": "field_qbx9786v",
+        "label": "Promo Subtext",
+        "name": "promo_subtext",
+        "type": "textarea"
+      },
+      {
+        "key": "field_akhv833q",
+        "label": "Trust 1 Title",
+        "name": "trust_1_title",
+        "type": "text"
+      },
+      {
+        "key": "field_6vi9qmeq",
+        "label": "Trust 1 Description",
+        "name": "trust_1_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_qrrcwqx4",
+        "label": "Trust 2 Title",
+        "name": "trust_2_title",
+        "type": "text"
+      },
+      {
+        "key": "field_iomelkqo",
+        "label": "Trust 2 Description",
+        "name": "trust_2_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_ezu7ylu0",
+        "label": "Trust 3 Title",
+        "name": "trust_3_title",
+        "type": "text"
+      },
+      {
+        "key": "field_b8wqsl0h",
+        "label": "Trust 3 Description",
+        "name": "trust_3_desc",
+        "type": "text"
+      },
+      {
+        "key": "field_k958ydfr",
+        "label": "Trust 4 Title",
+        "name": "trust_4_title",
+        "type": "text"
+      },
+      {
+        "key": "field_timthr30",
+        "label": "Trust 4 Description",
+        "name": "trust_4_desc",
+        "type": "text"
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "page"
+        }
+      ]
+    ],
+    "show_in_rest": 1,
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": ""
+  }
+]
